@@ -1,0 +1,12 @@
+/* styles.css */
+.nav-link {
+    color: white; /* Regular navbar item color */
+}
+
+.nav-item.active {
+    color: white; /* Active navbar item color */
+    background-color: navy; /*navy Active navbar item background */
+    font-weight: bold; /* Active navbar item font weight */
+
+
+}
