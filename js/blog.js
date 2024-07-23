@@ -54,13 +54,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
 function readMore(title) {
     const fullArticleContent = getFullArticle(title);
-
-    // Option 1: Display in an alert
-    // alert(fullArticleContent);
-
-    // Option 2: Display in a modal window (implementation example)
-    // Implement modal creation and logic here (refer to previous version for details)
-
-    // Option 3: Display in a dedicated section on the page (implementation example)
-    // Implement dedicated section creation and logic here (refer to previous version for details)
+alert(title);
 }
